@@ -1,0 +1,31 @@
+{
+  "name": "geojs",
+  "version": "0.1.0",
+  "description": "Simple geo lib.",
+  "type": "module",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "types": "./index.d.ts"
+    }
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "sideEffects": false,
+  "keywords": [
+    "geo",
+    "geolocation",
+    "haversine",
+    "nextjs"
+  ],
+  "license": "MIT"
+}
