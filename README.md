@@ -1,5 +1,5 @@
 # geojs
-Simple geo lib for Next.js and GitHub Pages. It stores items with latitude/longitude,
+SimpleGeoJS is a lib for Next.js and GitHub Pages. It stores items with latitude/longitude,
 supports add/remove, and performs radius search using math only (Haversine distance).
 
 ## Features
