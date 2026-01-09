@@ -10,7 +10,7 @@ supports add/remove, and performs radius search using math only (Haversine dista
 
 ## Installation
 ```bash
-npm install github:xxpaulorobertoxx/geojs
+npm install simplegeojs
 ```
 
 ## Basic usage
